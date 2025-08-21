@@ -1,0 +1,166 @@
+{
+  "title": "Omaha Metro Area Weekly Nets",
+  "schedule": {
+    "sunday": [
+      {
+        "time": "2:00pm",
+        "frequency": "50.200",
+        "mode": "USB",
+        "type": "Simplex",
+        "organization": "Heartland Hams"
+      },
+      {
+        "time": "7:50pm",
+        "frequency": "144.250",
+        "mode": "USB",
+        "type": "Simplex, vertically polarized",
+        "organization": "Heartland Hams"
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "146.94",
+        "mode": null,
+        "type": null,
+        "organization": "Douglas County ARES net"
+      }
+    ],
+    "monday": [
+      {
+        "time": "7:00pm",
+        "frequency": "145.29",
+        "mode": null,
+        "type": "ARES / Ragchew net on N0WKF repeater (Glenwood)",
+        "organization": "Heartland Hams"
+      },
+      {
+        "time": "7:00pm",
+        "frequency": "146.94",
+        "mode": null,
+        "type": null,
+        "organization": "Western Division SATERN net"
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "147.39",
+        "mode": null,
+        "type": null,
+        "organization": "W0WYV"
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "146.94",
+        "mode": null,
+        "type": null,
+        "organization": "K0USA"
+      }
+    ],
+    "tuesday": [
+      {
+        "time": "7:00pm",
+        "frequency": "147.435",
+        "mode": null,
+        "type": "Simplex",
+        "organization": null
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "147.39",
+        "mode": null,
+        "type": null,
+        "organization": "Tech Net"
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "50.200",
+        "mode": null,
+        "type": "Simplex",
+        "organization": null
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "442.225",
+        "mode": null,
+        "type": null,
+        "organization": "K0SWI"
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "145.31",
+        "mode": null,
+        "type": null,
+        "organization": "Washington County ARES"
+      }
+    ],
+    "wednesday": [
+      {
+        "time": "7:00pm",
+        "frequency": "146.67",
+        "mode": null,
+        "type": null,
+        "organization": "Dodge County ARES net"
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "147.39",
+        "mode": null,
+        "type": null,
+        "organization": "Mid-America Council Radio Scouting net"
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "145.31",
+        "mode": null,
+        "type": null,
+        "organization": "Saunders County ARES net"
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "442.225",
+        "mode": null,
+        "type": null,
+        "organization": "K0SWI – Swiarc Club Net"
+      }
+    ],
+    "thursday": [
+      {
+        "time": "7:30pm",
+        "frequency": "145.31",
+        "mode": null,
+        "type": null,
+        "organization": "Lincoln SATERN net"
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "144.250",
+        "mode": null,
+        "type": null,
+        "organization": "2M SSB net"
+      },
+      {
+        "time": "9:00pm",
+        "frequency": "146.360",
+        "mode": null,
+        "type": null,
+        "organization": "Heartland DX Association"
+      }
+    ],
+    "friday": [],
+    "saturday": [
+      {
+        "time": "12:00pm",
+        "frequency": "444.075",
+        "mode": null,
+        "type": null,
+        "organization": "Swiarc Swap net"
+      },
+      {
+        "time": "7:00pm",
+        "frequency": "145.29",
+        "mode": null,
+        "type": null,
+        "organization": "Heartland Hams Saturday Tech net"
+      }
+    ]
+  }
+}
+
