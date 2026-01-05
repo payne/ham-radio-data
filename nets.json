@@ -7,21 +7,33 @@
         "frequency": "50.200",
         "mode": "USB",
         "type": "Simplex",
-        "organization": "Heartland Hams"
+        "organization": "Heartland Hams",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "7:50pm",
         "frequency": "144.250",
         "mode": "USB",
         "type": "Simplex, vertically polarized",
-        "organization": "Heartland Hams"
+        "organization": "Heartland Hams",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "146.94",
         "mode": null,
         "type": null,
-        "organization": "Douglas County ARES net"
+        "organization": "Douglas County ARES net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ],
     "monday": [
@@ -30,28 +42,44 @@
         "frequency": "145.29",
         "mode": null,
         "type": "ARES / Ragchew net on N0WKF repeater (Glenwood)",
-        "organization": "Heartland Hams"
+        "organization": "Heartland Hams",
+        "repeater_callsign": "N0WKF",
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "7:00pm",
         "frequency": "146.94",
         "mode": null,
         "type": null,
-        "organization": "Western Division SATERN net"
+        "organization": "Western Division SATERN net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "147.39",
         "mode": null,
         "type": null,
-        "organization": "W0WYV"
+        "organization": "W0WYV",
+        "repeater_callsign": "W0WYV",
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "146.94",
         "mode": null,
         "type": null,
-        "organization": "K0USA"
+        "organization": "K0USA",
+        "repeater_callsign": "K0USA",
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ],
     "tuesday": [
@@ -60,35 +88,55 @@
         "frequency": "147.435",
         "mode": null,
         "type": "Simplex",
-        "organization": null
+        "organization": null,
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "147.39",
         "mode": null,
         "type": null,
-        "organization": "Tech Net"
+        "organization": "Tech Net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "50.200",
         "mode": null,
         "type": "Simplex",
-        "organization": null
+        "organization": null,
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "442.225",
         "mode": null,
         "type": null,
-        "organization": "K0SWI"
+        "organization": "K0SWI",
+        "repeater_callsign": "K0SWI",
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "145.31",
         "mode": null,
         "type": null,
-        "organization": "Washington County ARES"
+        "organization": "Washington County ARES",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ],
     "wednesday": [
@@ -97,28 +145,44 @@
         "frequency": "146.67",
         "mode": null,
         "type": null,
-        "organization": "Dodge County ARES net"
+        "organization": "Dodge County ARES net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "147.39",
         "mode": null,
         "type": null,
-        "organization": "Mid-America Council Radio Scouting net"
+        "organization": "Mid-America Council Radio Scouting net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "145.31",
         "mode": null,
         "type": null,
-        "organization": "Saunders County ARES net"
+        "organization": "Saunders County ARES net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "442.225",
         "mode": null,
         "type": null,
-        "organization": "K0SWI – Swiarc Club Net"
+        "organization": "K0SWI – Swiarc Club Net",
+        "repeater_callsign": "K0SWI",
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ],
     "thursday": [
@@ -127,21 +191,33 @@
         "frequency": "145.31",
         "mode": null,
         "type": null,
-        "organization": "Lincoln SATERN net"
+        "organization": "Lincoln SATERN net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "8:00pm",
         "frequency": "144.250",
         "mode": null,
         "type": null,
-        "organization": "2M SSB net"
+        "organization": "2M SSB net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "9:00pm",
         "frequency": "146.360",
         "mode": null,
         "type": null,
-        "organization": "Heartland DX Association"
+        "organization": "Heartland DX Association",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ],
     "friday": [],
@@ -151,16 +227,23 @@
         "frequency": "444.075",
         "mode": null,
         "type": null,
-        "organization": "Swiarc Swap net"
+        "organization": "Swiarc Swap net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       },
       {
         "time": "7:00pm",
         "frequency": "145.29",
         "mode": null,
         "type": null,
-        "organization": "Heartland Hams Saturday Tech net"
+        "organization": "Heartland Hams Saturday Tech net",
+        "repeater_callsign": null,
+        "offset": null,
+        "uplink_tone": null,
+        "repeater_book_url": null
       }
     ]
   }
 }
-
