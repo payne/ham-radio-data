@@ -243,6 +243,17 @@
         "offset": null,
         "uplink_tone": null,
         "repeater_book_url": null
+      },
+      {
+        "time": "8:00pm",
+        "frequency": "224.7",
+        "mode": null,
+        "type": null,
+        "organization": "",
+        "repeater_callsign": "AL0R",
+        "offset": -1.6,
+        "uplink_tone": 100.0,
+        "repeater_book_url": "https://www.repeaterbook.com/repeaters/details.php?state_id=31&ID=22263"
       }
     ]
   }
